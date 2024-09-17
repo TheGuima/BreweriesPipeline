@@ -15,6 +15,7 @@ This project involves setting up a data pipeline using Airflow to fetch data fro
 breweries-pipeline/
 ├── dags/
 │   └── breweries_dag.py      # The main DAG for the data pipeline
+├── logs/
 ├── data/
 │   └── bronze/     # Bronze Layer directory
 │   └── silver/     # Silver Layer directory
